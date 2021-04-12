@@ -1,4 +1,10 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) The Instagram Photo Feed (with Bootstrap)
+## The Instagram Photo Feed (with Bootstrap)
+
+Running web-server using the following command:
+
+```sh
+$ pip3 install flask && python3 server.py
+```
 
 As a developer, you are given the task to replicate a picture as a website.
 
